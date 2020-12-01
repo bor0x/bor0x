@@ -1,16 +1,17 @@
-### Hi there 👋
+### hi, im borox 👋
+#####  little bit about me ...
+- 👶 i have 13 years old
+- 🔭 I’m currently working on my own site
+- 🌱 I’m currently learning html/css/js/ts
+- 💬 Ask me about on my <a href="https://discord.gg/kHTq7Bh7be">discord</a>
+- 📫 How to reach me: up
+- ⚡ Fun fact: i f8cking live in poland
 
-<!--
-**bor0x/bor0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### my socials
+* 🐦 twitter: <a href="https://twitter.com/bor0x_">click</a>
+* 🎤 concat with me on discord: <a href="https://discord.gg/kHTq7Bh7be">click</a>
 
-Here are some ideas to get you started:
+###### If you have any more questions, write to me on discord.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
